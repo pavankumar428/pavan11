@@ -1,5 +1,13 @@
-line1
-line2
-line3
-line4
-line5
+package com.durga;
+
+/**
+ * Hello world!
+ *
+ */
+public class Sample
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello Durgasoft" );
+    }
+}
